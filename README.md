@@ -1,6 +1,10 @@
 # DinoGame
 This project contains an implementation of the [Chrome T-Rex Dinosaur Game](https://en.wikipedia.org/wiki/Dinosaur_Game) in [pygame](https://www.pygame.org/), employing self-learning through the [NEAT-python package](https://neat-python.readthedocs.io/en/latest/).
 
+<center>
+    <img src="images/dino-game.gif" alt="Visualisation of the NEAT algorithm collecting data for training" width="70%">
+</center>
+
 ## Implementation Details
 The code is written in Python and relies on the following packages:
 * pygame
